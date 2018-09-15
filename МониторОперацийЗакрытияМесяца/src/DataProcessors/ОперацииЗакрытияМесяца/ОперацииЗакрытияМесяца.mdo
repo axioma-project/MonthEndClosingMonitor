@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="860380f0-0bb2-4670-b22a-bd657af85f8e">
+  <producedTypes>
+    <objectType typeId="17425381-c986-49c8-b223-b9d50b37b5d2" valueTypeId="1d9be91f-de9e-4e8f-8edd-be681f4eac67"/>
+    <managerType typeId="0a9c3dd8-3260-4d34-aaf8-efaad22d3f78" valueTypeId="93e2fd6e-c04f-43be-80ea-ebbab705a826"/>
+  </producedTypes>
+  <name>ОперацииЗакрытияМесяца</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension"/>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

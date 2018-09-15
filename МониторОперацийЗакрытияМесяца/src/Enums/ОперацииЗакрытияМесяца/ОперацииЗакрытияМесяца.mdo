@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="2a2c4f26-009d-44ae-ae22-135af59216be">
+  <producedTypes>
+    <refType typeId="07b176f0-95ea-46a3-9ab5-08683f6dc7c6" valueTypeId="13daf7f7-dea5-4e0d-9f54-51bdd0159d59"/>
+    <listType typeId="8b621041-218c-4bd6-9da1-d8b2fe8d5e55" valueTypeId="85abd19a-d04c-4efb-a7a6-d0bf616c03cb"/>
+    <managerType typeId="aa1f5940-5d0f-4114-9cc7-34278938f90e" valueTypeId="ff17ab6a-8b0b-45ed-9959-401367ce89cc"/>
+  </producedTypes>
+  <name>ОперацииЗакрытияМесяца</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="b7818d30-300d-4992-a053-77b0d953ab80">
+    <name>ИсправлениеДублейВидовЗапасов</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

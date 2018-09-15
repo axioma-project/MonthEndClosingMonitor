@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="372016f8-f3a7-4246-a6bb-ec1c8ae6a33b">
+  <producedTypes>
+    <refType typeId="1ea53585-e5a3-49bb-a63b-d01258439ad0" valueTypeId="a30c59fe-1b89-4ea5-90b6-c1ce4762f251"/>
+    <listType typeId="cfa17cd5-7138-432a-a476-30e812b9ec1a" valueTypeId="da3dff36-3183-46a6-8bc3-b1ba6f180574"/>
+    <managerType typeId="af9c8024-79d8-4346-843c-415c50f09f84" valueTypeId="499f850b-bea1-46fe-8087-dc21a222ac84"/>
+  </producedTypes>
+  <name>СостоянияОперацийЗакрытияМесяца</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension"/>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="45658728-ea40-4f43-af1f-321f1cffb3a3">
+    <name>ВыполненоУспешно</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+  <enumValues uuid="5436ea77-ea05-4d1d-ac0f-cc4664752bd6">
+    <name>НеТребуется</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension"/>
+  </enumValues>
+</mdclass:Enum>

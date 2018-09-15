@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b5bdda83-1535-4ec8-82cf-cc7d42bba897">
+  <producedTypes>
+    <objectType typeId="e0de5f88-d321-4131-ae64-65752d5f40d6" valueTypeId="dc5bde51-3b12-47c7-9350-1ce1d744bac9"/>
+    <managerType typeId="64528712-a956-4df8-ba8f-64150649ec4c" valueTypeId="0b42f460-fbc1-44b0-ab3a-948caac24996"/>
+  </producedTypes>
+  <name>Аксима_ЗакрытиеМесяца_МониторОперацийЗакрытияМесяца</name>
+  <synonym>
+    <key>ru</key>
+    <value>Монитор операций закрытия месяца</value>
+  </synonym>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.Аксима_ЗакрытиеМесяца_МониторОперацийЗакрытияМесяца.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="6d0c0834-0d87-457d-8a6e-d65329dd5649">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <comment></comment>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
