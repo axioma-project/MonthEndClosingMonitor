@@ -5,4 +5,5 @@
   <extension xsi:type="mdclassExtension:SubsystemExtension"/>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <subsystems>ЗакрытиеМесяца</subsystems>
 </mdclass:Subsystem>
